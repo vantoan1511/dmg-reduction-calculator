@@ -1,6 +1,6 @@
 @font-face {
     font-family: 'LoL';
-    src: url('/fonts/Friz\ Quadrata\ Regular.ttf') format('truetype');
+    src: url('fonts/Friz\ Quadrata\ Regular.ttf') format('truetype');
     /* Đường dẫn tới tệp font */
     font-weight: normal;
     font-style: normal;
@@ -14,7 +14,7 @@ body {
 #bg {
     /* width: 100%;
     height: 100%; */
-    background-image: url("/images/bg.jpg");
+    background-image: url("images/bg.jpg");
 }
 
 #title {
